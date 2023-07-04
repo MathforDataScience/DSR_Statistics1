@@ -1,0 +1,8 @@
+pandas
+scikit-learn		# includes scipy
+statsmodels
+matplotlib
+seaborn
+jupyter 		# jupyter notebook
+
+
