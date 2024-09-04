@@ -2,7 +2,9 @@ pandas
 scikit-learn		# includes scipy
 statsmodels
 matplotlib
+matplotlib_venn
 seaborn
-jupyter 		# jupyter notebook
-
+jupyter 		# jupyter Notebook
+folium
+networkx
 
